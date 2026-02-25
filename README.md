@@ -4,6 +4,8 @@
     # python version -> 3.10
     
     https://drive.google.com/file/d/1HAraIbcEMmzOzyPwQygJx6_mPIZmsD2C/view?usp=drive_link
+
+    https://drive.google.com/drive/folders/13moH5cxdNRPcDGaEO9OXq-LYVY9yPO3C?usp=sharing
     
     tar -xzf cb_env.tar.gz -C envs/cover_bottom
     
