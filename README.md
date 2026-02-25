@@ -3,12 +3,15 @@
     ```bash
     # python version -> 3.10
     
+    # env file
     https://drive.google.com/file/d/1HAraIbcEMmzOzyPwQygJx6_mPIZmsD2C/view?usp=drive_link
 
-    https://drive.google.com/drive/folders/13moH5cxdNRPcDGaEO9OXq-LYVY9yPO3C?usp=sharing
+    # model file
+    https://drive.google.com/file/d/1ZJgik_-80Dio35M3Bzo3XroQ6XKG94EL/view?usp=drive_link
     
     tar -xzf cb_env.tar.gz -C envs/cover_bottom
-    
+
+
     # Environment 활성
     source envs/cover_bottom/bin/activate
 
