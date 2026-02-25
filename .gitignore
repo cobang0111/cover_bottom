@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Model / weights / data
+*.pth
+*.pt
+*.onnx
+*.ckpt
+*.h5
+*.tar.gz
+*.zip
+
+# caches
+.ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
+
+# OS/editor
+.DS_Store
+.vscode/
